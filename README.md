@@ -28,4 +28,4 @@ Welcome to my GitHub! I'm a recent graduate from the University of Georgia with 
 - 📬 Email: vanessaachaibar@outlook.com
 - 🌐 Portfolio/Website: *(Coming Soon)*
 
-Thanks for stopping by! Feel free to check out my repositories and proje## Hi there 👋
+Thanks for stopping by! Feel free to check out my repositories and projects!
