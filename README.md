@@ -19,6 +19,9 @@ Welcome to my GitHub! I'm a recent graduate from the University of Georgia with 
 ## 🧰 What I'm Working On
 - Developing social media content strategies and infographics for a **home care nonprofit** to engage and inform communities.
 - Growing my skills in **AI model evaluation and governance**, particularly in conversational agents and ethical compliance.
+- Improving large language models (like GPT) by evaluating outputs, summarizing text, and recording audio samples for voice interaction systems. This helps fine-tune conversational agents and contributes to building more accurate and inclusive AI.
+- Exploring AI governance, emotion recognition, and NLP ethics—especially how we can ensure these technologies work fairly across demographics and contexts.
+
 
 ## 📫 Get in Touch
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vanessa-achaibar/)
